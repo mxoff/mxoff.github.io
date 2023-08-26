@@ -1,0 +1,23 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+
+body {
+    font-family: 'Open Sans', sans-serif;
+    background-color: rgb(48, 48, 48);
+}
+
+.time {
+    color: #ffffff;
+    font-size: 150px;
+}
+
+.center {
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    margin-left: -300px;
+    margin-top: -90px;
+}
